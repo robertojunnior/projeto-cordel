@@ -6,7 +6,7 @@ Tecnologias utilizadas:
 - HTML;
 - CSS.
 
-Acesse o link do <a target="_blank" href="https://robertojunnior.github.io/projeto-cordel/">Projeto.</a>
+Acesse o link do <a href="https://robertojunnior.github.io/projeto-cordel/" target="_blank">Projeto.</a>
 
 <a href="https://robertojunnior.github.io/projeto-cordel/" target="_blank"><img src="https://github.com/robertojunnior/projeto-cordel/blob/main/imagens/projeto-cordel-picture.png?raw=true" alt="imagem-do-projeto"></a>
 
